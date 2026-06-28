@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://guangbuwan.github.io/zenku-essence-studio/sitemap.xml
